@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Swift / Swift Package Manager
+.build/
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
+.swiftpm/configuration/registries.json
+.swiftpm/security/fingerprints/
+
+# Xcode
+DerivedData/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+xcuserdata/
+
+# Build and distribution artifacts (keep source scripts and assets)
+dist/
+build/
+*.dSYM/
+
+# Local environment / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.key
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*~
