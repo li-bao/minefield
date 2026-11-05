@@ -40,7 +40,7 @@ AI 救援、提示及棋局管理擴充	後續擴充項目（Phase 4.5 / 4.75）
 - Ollama：只有使用本機 AI 功能時才需要；一般掃雷與內建邏輯求解不應依賴 Ollama。
 開發環境與建置
 1. 取得專案
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/Minefield.git
+git clone https://github.com/li-bao/Minefield.git
 cd Minefield
 將 <YOUR_GITHUB_USERNAME> 換成你的 GitHub 帳號名稱。如果你的 Repository 使用其他名稱，也請同步修改網址。
 2. 檢查 Swift 工具鏈
